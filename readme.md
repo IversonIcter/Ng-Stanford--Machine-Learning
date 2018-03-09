@@ -8,7 +8,13 @@ I have worked out all the programming tasks(including optional tasks) of week 2 
 
 # Week 3
 
-update in next week.
+All examples test well(nice work) after submiting.
+
+# Week 4
+
+update next week
+
+
 
 
 
