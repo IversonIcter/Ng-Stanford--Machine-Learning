@@ -14,9 +14,17 @@ All examples test well(nice work) after submiting.
 
 All examples test well(nice work)
 
-# Week 5
+# Week 5 Neural Networks:Learning
 
 All examples test well(nice work)
+
+# week 6 Advice for applying machine learning & machine leanring system design
+
+All examples test well. 
+
+Need to notice, training error doesnot include the regularization term. You should compute the training error and validation error by setting lambda equals 0 in the validationCurve.m
+
+
 
 
 
