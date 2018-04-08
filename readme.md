@@ -1,6 +1,7 @@
 # Introduce
 
-I created this repository for sharing my programming homework of machine learning course(Ng, Stanford). You can browse it by this [website](https://www.coursera.org/learn/machine-learning/home/welcome). I think this course is very significant and educational for machine learning rookies. Considering not skillful  with Matlab, If you find some bugs in my code, don't hesitate to send email to me. I will appreciate it very much.
+I created this repository for sharing my programming homework of machine learning course(Ng, Stanford). You can browse it by this [website](https://www.coursera.org/learn/machine-learning/home/welcome). I think this course is very significant and educational for machine learning rookies. Considering not skillful  with Matlab, If you find some bugs in my code, do not hesitate to send email to me. I will appreciate it very much.
+
 
 #  Week 2 Linear Regression with Multiple Variables
 
@@ -24,7 +25,9 @@ All examples test well.
 
 Need to notice, training error doesnot include the regularization term. You should compute the training error and validation error by setting lambda equals 0 in the validationCurve.m
 
+# week 7 Support Vector Machines
 
+All examples test well.
 
 
 
